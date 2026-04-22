@@ -127,8 +127,8 @@ export default function Contact() {
                                     <FaMailBulk className="text-(--color) mt-1 shrink-0" size={24} />
                                     <div>
                                         <p className="font-semibold text-foreground">Email</p>
-                                        <a href="mailto:kscarx@videoeditor.com" className="text-(--color) hover:underline">
-                                            kscarx@videoeditor.com
+                                        <a href="mailto:noah.kscar@gmail.com" className="text-(--color) hover:underline">
+                                            noah.kscar@gmail.com 
                                         </a>
                                     </div>
                                 </div>

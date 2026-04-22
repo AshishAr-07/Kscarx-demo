@@ -9,7 +9,7 @@ const drivelinks = [
         id: 1,
         title: 'My Short Film ',
         category: 'Film',
-        description: 'A cinematic story about love, loss, and redemption',
+        description: 'It was a horror story with a surprise comedic twist.',
         videoUrl: 'https://drive.google.com/file/d/15MTiPXIn3-UDdcLHUCVfONL1QQ_tNfYl/preview',
     },
     {
@@ -37,8 +37,7 @@ const drivelinks = [
         id: 5,
         title: 'Logo Animation',
         category: 'BTS',
-        description: 'A look into my creative process and filmmaking techniques',
-        thumbnail: '/y2.webp',
+        description: 'Get rid of “and filming techniques” ',
         videoUrl: 'https://drive.google.com/file/d/148u8bA7ZcxaRhiS7L7VFqnkGKnyhsjVQ/preview',
     }
 ]
